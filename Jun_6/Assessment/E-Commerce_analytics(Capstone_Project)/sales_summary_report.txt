@@ -1,0 +1,26 @@
+==================================================
+          SALES SUMMARY PERFORMANCE REPORT         
+==================================================
+
+Total Orders            : 12
+Total Revenue           : ₹548,000.00
+Average Order Value     : ₹45,666.67
+Highest Order Value     : ₹94,000.00
+Lowest Order Value      : ₹13,000.00
+
+--- Revenue By City ---
+ Hyderabad   : ₹200,000.00
+ Bangalore   : ₹95,000.00
+ Mumbai      : ₹69,000.00
+ Chennai     : ₹70,000.00
+ Delhi       : ₹92,000.00
+ Pune        : ₹22,000.00
+
+--- Revenue By Category ---
+ Electronics : ₹474,000.00
+ Furniture   : ₹74,000.00
+
+Top Selling Product     : Chair
+Top Revenue City        : Hyderabad
+
+==================================================
