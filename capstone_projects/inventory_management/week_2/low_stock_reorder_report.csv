@@ -1,0 +1,4 @@
+product_id,product_name,reorder_threshold,current_quantity,reorder_required
+1,Ergonomic Wireless Mouse,15,10.0,True
+3,Mechanical Keyboard,12,0.0,True
+5,USB-C Hub Hub,5,0.0,True
