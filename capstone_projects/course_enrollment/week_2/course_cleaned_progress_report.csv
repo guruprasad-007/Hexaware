@@ -1,0 +1,7 @@
+student_id,student_name,course_id,course_name,current_progress_percentage,enrollment_status
+101,Guru Prasad,CS-101,Deep Learning,45.0,Active
+102,Ananya Rao,CS-102,Azure Cloud,100.0,Completed
+104,Siddharth Singh,CS-103,MERN Stack,0.0,Dropped
+105,Meghana Reddy,CS-102,Azure Cloud,0.0,Active
+106,Kiran Rao,CS-101,Deep Learning,100.0,Completed
+107,Vikram Malhotra,CS-103,MERN Stack,64.0,Active
