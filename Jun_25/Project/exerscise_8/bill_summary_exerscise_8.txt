@@ -1,0 +1,3 @@
+Customers = 5
+Total Units = 1100
+Average Units = 220

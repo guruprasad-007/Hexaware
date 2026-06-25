@@ -1,0 +1,3 @@
+Total Deposit = 16000
+Total Withdrawal = 4000
+Final Balance = 12000

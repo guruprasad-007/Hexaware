@@ -1,0 +1,2 @@
+Highest Temperature = 38°C
+Average Temperature = 34.14°C
